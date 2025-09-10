@@ -1,0 +1,12 @@
+## 📋 requirements.txt
+
+```txt
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
+bs4
+wordcloud
+gensim
